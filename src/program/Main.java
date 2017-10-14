@@ -14,7 +14,10 @@ public class Main
 		 */
 		public static void main(String[] args)
 			{
-				System.out.println("Hello World");
+			Maze aName = new Maze();	
+			aName.printMaze();
+			//System.out.println("Hello World");
+			
 			}
 
 	}
